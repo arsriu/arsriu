@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Without%20data,%20you're%20just%20another%20person%20with%20an%20opinion)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Ryu%20Hanseong)
 
 <!--
 **arsriu/arsriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
