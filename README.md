@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
-
+<hr>
 <h1 align="center">For more information, Please visit my notion!</h1>
 <!--
 **arsriu/arsriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
