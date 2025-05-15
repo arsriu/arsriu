@@ -5,7 +5,7 @@
 ## 📊 Stats</h2>
 
 <p align="center">
-  <a href="https://solved.ac/harry130">
+  <a href="https://solved.ac/harry130" style = "outline : none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=harry130"/>
   </a>
   &nbsp;&nbsp;&nbsp;
