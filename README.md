@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Ryu%20Hanseong)
 
-
-## Stats
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Ryu%20Hanseong)
-
 ## Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=arsriu&count_private=true&theme=transparent&show_icons=true" width="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent" width="180"/>
 </p>
+
 
 
 <!--
