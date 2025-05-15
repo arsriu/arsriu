@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Data%20Science%20&amp;%20Statistics" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Data%20Science%20amp;%20Statistics" />
 </p>
 
 ## 📊 Stats
