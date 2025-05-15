@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Welcome!%20and%20Thank%20You!" />
 </p>
 
+## 📋Education
+* 안양대학교 소프트웨어학과(,통계 데이터 과학과) 2019.03 ~ 2025.08
+* 양천고등학교 2016.03 ~ 2019.02
+
+
 ## 📊 Stats
 
 <p align="center">
@@ -31,6 +36,9 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
+
+
+
 <!--
 **arsriu/arsriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
