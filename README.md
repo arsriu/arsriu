@@ -2,7 +2,7 @@
 
 
 ## 🤔 Stats
-[![Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsriu&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsriu&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact)](https://github.com/arsriu/github-readme-stats)
 <!--
