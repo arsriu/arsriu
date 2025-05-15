@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
 
-# 더 자세한 정보는 노션에 있습니다! 
+<h1 align="center">더 자세한 정보는 노션에 있습니다!</h1>
 <!--
 **arsriu/arsriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
