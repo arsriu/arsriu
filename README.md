@@ -8,7 +8,7 @@
   <a href="https://solved.ac/harry130">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=harry130" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent" width="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent"/>
 </p>
 
 <h2 align="center">🛠️ Tech Stacks</h2>
