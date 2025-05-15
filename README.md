@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Ryu%20Hanseong" />
 </p>
 
-<h2 align="center">📊 Stats</h2>
+## 📊 Stats</h2>
 
 <p align="center">
   <a href="https://solved.ac/harry130">
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent"/>
 </p>
 
-<h2 align="center">🛠️ Tech Stacks</h2>
+## 🛠️ Tech Stacks</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
