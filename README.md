@@ -6,9 +6,13 @@
 * 안양대학교 소프트웨어학과(복수 전공: 통계데이터과학과) 2019.03 ~ 2025.08
 * 양천고등학교 2016.03 ~ 2019.02
 
-
+## 📑Certificates
+* 2024.11 ADsP
+* 2024.09 정보처리기사
+* 2024.04 빅데이터 분석 기사(필기)
+* 2023.10 SQLD
+  
 ## 📊 Stats
-
 <p align="center">
   <a href="https://solved.ac/harry130" style="outline: none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=harry130"/>
