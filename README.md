@@ -3,8 +3,8 @@
 
 ## Stats
 
-![arsriu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsriu&count_private=true&theme=transparent&show_icons=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry130)](https://solved.ac/harry130)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry130)](https://solved.ac/harry130)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent)
+
 
 
 <!--
