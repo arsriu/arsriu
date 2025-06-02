@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Data%20makes%20everything!" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Happiness%20made%20by%20Data!" />
 </p>
 
 ## 📋Education
