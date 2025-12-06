@@ -18,7 +18,7 @@
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=harry130"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsriu&layout=compact&theme=transparent"/>
 </p>
 
 ## 🛠️ Tech Stacks
